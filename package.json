@@ -1,0 +1,14 @@
+{
+  "name": "autocomplete-demo",
+  "version": "1.0.0",
+  "description": "A simple demo of autocomplete search box",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Hung Nguyen <viethungax@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
